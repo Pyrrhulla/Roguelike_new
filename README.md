@@ -1,3 +1,3 @@
-# Roguelike_new
+# Roguelike (Godot)
 
-Classical 8bit roguelike with generated dungeons
+Classical 8bit roguelike with generated dungeons.
