@@ -1,13 +1,7 @@
 # Roguelike (Godot)
 
-A classic 8 bit roguelike with randomly generated levels (dungeons), made in Godot. A little game-sample about a little ork, escaping an elven underground prison.
-At this moment the game contains: 
-- A standard dungeon-like locations and a boss level
-- Inventory
-- Two weapons  
-- Several kinds of enimies 
+A classic 8 bit roguelike with randomly generated dungeon levels and a bossfight, made in Godot with author's sprites. 
 
 
-![photo_2022-08-23 18 15 30](https://user-images.githubusercontent.com/55465730/186209355-1cff1f6e-5102-43ef-bee2-7ccfa41fee9a.jpeg)
+<img width="671" alt="Снимок экрана 2023-01-28 в 23 39 09" src="https://user-images.githubusercontent.com/55465730/215294309-17a7bb4f-730a-44c5-9cb0-eaab74d60e8c.png">
 
-Godot screenshot
